@@ -1,17 +1,17 @@
-### [X](http://link-to-x.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    $ git clone https://github.com/dracula/template.git
+### [Adobe](https://www.adobe.com/)
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/adobe/archive/master.zip) option and unzip them.
 
-#### Activating theme
+#### Installing on Adobe Photoshop
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Go to `Window > Swatches` to open the swatch panel
+2. Click the hamburger icon in the top right of that panel to open a submenu
+3. Go to _Import Swatches..._ and select the `Dracula.ase` file
+
+#### Installing on Adobe Illustrator
+
+1. Go to `Window > Swatches` to open the swatch panel
+2. Click the hamburger icon in the top right of that panel to open a submenu
+3. Go to _Open Swatch Library > Other Library..._ and select the `Dracula.ase` file
